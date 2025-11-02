@@ -1,0 +1,14 @@
+{
+  "data_path": "data/raw/dataset_original.csv",
+  "code_search_net_path": "data/raw/code_search_net/python/code_search_net_python.json",
+  "github_search_results_path": "data/raw/github_search_results/python_function_examples.json",
+  "processed_data_path": "data/processed/code_search_net_processed.csv",
+  "synthetic_data_path": "data/synthetic/synthetic_data.csv",
+  "model_path": "models/model_v1.py",
+  "logs_path": "logs/training_logs.txt",
+  "batch_size": 32,
+  "learning_rate": 0.001,
+  "epochs": 50,
+  "test_size": 0.2,
+  "random_state": 42
+}
